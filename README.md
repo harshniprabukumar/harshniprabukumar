@@ -61,48 +61,6 @@ Computer Science Engineering Student | Java Developer | AI Enthusiast
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshniprabukumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshniprabukumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=harshniprabukumar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshniprabukumar&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshniprabukumar&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🧾 Barcode Based Smart Billing System
@@ -144,27 +102,6 @@ Python • AI
 Generates nutrition reports and personalized health recommendations.
 
 ---
-
-## 📌 Repository Highlights
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshniprabukumar&repo=ExpenseTracker&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshniprabukumar&repo=Barcode_Based_Smart-Billing-System&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshniprabukumar&repo=EcoEnergy&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshniprabukumar&repo=Nutrition-Report-Bot&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 💡 Quote
 
 <p align="center">
@@ -176,13 +113,7 @@ Generates nutrition reports and personalized health recommendations.
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/harshniprabukumar/harshniprabukumar/output/github-contribution-grid-snake.svg">
-</p>
-
----
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=harshniprabukumar&label=Profile+Views&color=4F8EF7&style=flat"/>
