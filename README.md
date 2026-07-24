@@ -1,117 +1,196 @@
-<h1 align="center">Hi, I'm Harshni 👋</h1>
-<h4 align="center">Computer Science Engineering Student · Java Developer · AI Enthusiast</h4>
+<h1 align="center">
+Hi 👋, I'm Harshni 
+</h1>
+
+<h3 align="center">
+Computer Science Engineering Student | Java Developer | AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=6C7A89&center=true&vCenter=true&width=480&lines=Building+with+Java+%26+Spring+Boot;Exploring+Generative+AI;Always+learning+something+new" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Enthusiast;AI+%26+Machine+Learning+Explorer;Building+Real+World+Projects;Always+Learning+Something+New"/>
+
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🎓  B.E. Computer Science Engineering Graduate
+
+💻 Passionate about Backend Development
+
+🚀 Building Java & Spring Boot Applications
+
+🤖 Interested in Artificial Intelligence & Machine Learning
+
+🌱 Currently Learning
+
+- Spring Boot
+- Data Structures & Algorithms
+- REST APIs
+- Generative AI
+
+📍 Tamil Nadu, India
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/harshni-prabukumar-710933257">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:harshnip0707@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,html,css,js,mysql,git,github,vscode,postman&perline=6"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshniprabukumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshniprabukumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=harshniprabukumar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshniprabukumar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshniprabukumar&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🧾 Barcode Based Smart Billing System
+
+Java • MySQL • Twilio
+
+Barcode-based smart billing with OTP authentication and secure payment workflow.
+
+---
+
+### 🌦️ Renewable Energy Forecasting
+
+Python • ConvLSTM • Transformer
+
+Spatio-temporal renewable energy forecasting across Tamil Nadu using hybrid deep learning.
+
+---
+
+### 💰 Expense Tracker
+
+Java • Spring Boot • MySQL
+
+Track income, expenses and monthly budgets with a clean backend architecture.
+
+---
+
+### 📰 Latest News Report Bot
+
+Python • UiPath
+
+Automated news extraction, summarization and email reporting.
+
+---
+
+### 🥗 Smart Nutrition Bot
+
+Python • AI
+
+Generates nutrition reports and personalized health recommendations.
+
+---
+
+## 📌 Repository Highlights
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshniprabukumar&repo=ExpenseTracker&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshniprabukumar&repo=Barcode_Based_Smart-Billing-System&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshniprabukumar"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshniprabukumar&repo=EcoEnergy&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshniprabukumar&repo=Nutrition-Report-Bot&theme=tokyonight"/>
+
 </p>
 
-<br/>
+---
 
-<p align="center">•  •  •</p>
-
-## About
-
-- 🎓 Computer Science Engineering student
-- 💻 Focused on Java development and backend systems
-- 🤖 Exploring Generative AI
-- 📍 Tamil Nadu, India
-
-<p align="center">•  •  •</p>
-
-## Tech Stack
+## 💡 Quote
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,spring,mysql,git,github&theme=light" height="42"/>
+
+<i>
+"Every project is an opportunity to learn, improve, and create something meaningful."
+</i>
+
 </p>
 
-<p align="center">•  •  •</p>
-
-## GitHub Stats
+---
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=harshniprabukumar&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=444444&icon_color=6C7A89&title_color=333333&bg_color=00000000"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshniprabukumar&layout=compact&hide_border=true&hide_title=true&text_color=444444&title_color=333333&bg_color=00000000&langs_count=6"/>
+<img src="https://raw.githubusercontent.com/harshniprabukumar/harshniprabukumar/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=harshniprabukumar&label=Profile+Views&color=4F8EF7&style=flat"/>
+
 </p>
 
 <p align="center">
-  <img height="110" src="https://github-readme-streak-stats.herokuapp.com/?user=harshniprabukumar&hide_border=true&background=00000000&ring=6C7A89&fire=6C7A89&currStreakLabel=444444&sideLabels=444444&currStreakNum=333333&sideNums=333333&dates=999999"/>
+
+⭐ Thanks for visiting my profile!
+
 </p>
-
-<p align="center">•  •  •</p>
-
-## Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Barcode Based Smart Billing System**
-Smart billing app with barcode scanning, secure authentication, and streamlined payments.
-
-</td>
-<td width="50%" valign="top">
-
-**Renewable Energy Forecasting**
-Hybrid ConvLSTM–Transformer model forecasting renewable energy across Tamil Nadu districts.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Smart Nutrition Bot**
-Personalized dietary suggestions and health reports based on user data.
-
-</td>
-<td width="50%" valign="top">
-
-**Latest News Report Bot**
-Automated news collection and summarized reporting using UiPath and Python.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Expense Tracker System**
-A simple app to manage expenses, track spending, and monitor budgets.
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
-<p align="center">•  •  •</p>
-
-## Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-grey?style=flat-square&logoColor=white" height="20"/>
-  <img src="https://img.shields.io/badge/DSA-grey?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/REST_APIs-grey?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/Generative_AI-grey?style=flat-square" height="20"/>
-</p>
-
-<p align="center">•  •  •</p>
-
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshni-prabukumar-710933257/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white" height="24"/>
-  </a>
-  &nbsp;
-  <a href="mailto:harshnip0707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=white" height="24"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center"><sub>⭐ Thanks for visiting.</sub></p>
